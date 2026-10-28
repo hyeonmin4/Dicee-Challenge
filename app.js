@@ -24,3 +24,4 @@ if (random1 > random2) {
 } else {
   h1.textContent = "Draw";
 }
+//주석달았
